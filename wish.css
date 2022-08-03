@@ -1,0 +1,26 @@
+.body{
+    background-color:#a1dbf8 ;
+}
+
+.heading{
+    color:rgb(169, 173, 55);
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.q1{
+    font-weight: 500;
+    color: rgb(241, 227, 227);
+}
+
+.q2{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(241, 227, 227);
+}
+
+.card{
+    background-image: url(https://images.pexels.com/photos/4303031/pexels-photo-4303031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    
+}
